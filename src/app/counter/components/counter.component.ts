@@ -9,7 +9,6 @@ import { Component } from "@angular/core";
   <button (click)="resetCounter()">Reset</button>
   <button (click)="increseBy(-1)">-1</button>
 
-
   `
 })
 export class CounterComponent {
